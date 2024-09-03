@@ -69,7 +69,8 @@ styl = f"""
     }}
 
     /* Generate ticket text area */
-    textarea[aria-label="Description"] {{
+    /* textarea[aria-label="Description"] {{ */
+    textarea[data-testid="stChatInputTextArea"] {{
         height: 200px;
     }}
 </style>
