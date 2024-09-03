@@ -1,3 +1,8 @@
+# Small changes by Gert
+running on --profile linux
+all local
+
+
 # GenAI Stack
 The GenAI Stack will get you started building your own GenAI application in no time.
 The demo applications can serve as inspiration or as a starting point.
